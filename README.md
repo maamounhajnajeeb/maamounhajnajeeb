@@ -23,7 +23,6 @@
   <a href="https://www.youtube.com/c/he magic of computer science" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="he magic of computer science" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/maamounhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maamounhn" height="30" width="40" /></a>
   
-  <a href="https://medium.com/@maamoun.haj.najeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@maamoun.haj.najeeb" height="30" width="40" /></a>
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
