@@ -20,7 +20,7 @@
   <p align="left">
   <a href="https://linkedin.com/in/maamoun haj najeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maamoun haj najeeb" height="30" width="40" /></a>
   <a href="https://fb.com/almoalmmaamoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="almoalmmaamoun" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/he magic of computer science" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="he magic of computer science" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/themagicofcomputerscience3270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="he magic of computer science" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/maamounhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maamounhn" height="30" width="40" /></a>
   
   </p>
