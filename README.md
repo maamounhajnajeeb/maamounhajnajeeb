@@ -7,6 +7,7 @@
 
 <img align="right" width="400px" src="https://www.hyperinteractive.de/wp-content/uploads/2022/05/back-end-developer.gif" />
 
+<div></div>
   - 🌱 I’m currently learning **Django web framework**
 
   - 💬 Ask me about **Python, Django**
@@ -14,6 +15,7 @@
   - 📫 How to reach me **maamoun.haj.najeeb@gmail.com**
 
 
+<div></div>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://linkedin.com/in/maamoun haj najeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maamoun haj najeeb" height="30" width="40" /></a>
@@ -22,6 +24,8 @@
   <a href="https://www.leetcode.com/maamounhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maamounhn" height="30" width="40" /></a>
   
   </p>
+
+<div></div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -60,6 +64,10 @@
 
 </p>
 
+<div></div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maamoun3911&show_icons=true&locale=en&layout=compact" alt="maamoun3911" /></p>
+
+<div></div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maamoun3911&show_icons=true&locale=en" alt="maamoun3911" /></p>
