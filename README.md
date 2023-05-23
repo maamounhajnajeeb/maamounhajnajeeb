@@ -7,7 +7,6 @@
 
 <img align="right" width="400px" src="https://www.hyperinteractive.de/wp-content/uploads/2022/05/back-end-developer.gif" />
 
-<div></div>
   - 🌱 I’m currently learning **Django web framework**
 
   - 💬 Ask me about **Python, Django**
