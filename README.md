@@ -1,39 +1,32 @@
-<h3 align="center">
-  Welcome to Maamoun Haj Najeeb's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">Hi 👋, I'm Maamoun Haj Najeeb</h1>
+<h3 align="center">A passionate backend developer from Syria</h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Django+web+developer;Always+learning+new+technologies" alt="Typing SVG" /></a>
-</p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maamoun3911&label=Profile%20views&color=0e75b6&style=flat" alt="maamoun3911" /> </p>
 
-- 🏢 I'm a Fresh Backend Software Developer | Django
-- 👨‍💻 As a CS self-taught student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Python, Django and multiple Python libraries.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maamoun3911" alt="maamoun3911" /></a> </p>
 
+<img align="right" width="400px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
-### Connect with Me :
+- 🌱 I’m currently learning **Django web framework**
 
-<a href="https://www.linkedin.com/in/maamoun-hajnajeeb/" target="_blank"><img src="https://img.shields.io/badge/-Maamoun%20Haj%20Najeeb-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/almoalmmaamoun" target="_blank"><img src="https://img.shields.io/badge/-Maamoun%20Haj%20Najeeb-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-### 🛠 &nbsp;Technologies & Tools
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django%20-05122A?style=flat&logo=django)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+- 💬 Ask me about **Python, Django**
 
+- 📫 How to reach me **maamoun.haj.najeeb@gmail.com**
 
+- ⚡ Fun fact **I love programming**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/maamoun haj najeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maamoun haj najeeb" height="30" width="40" /></a>
+<a href="https://fb.com/almoalmmaamoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="almoalmmaamoun" height="30" width="40" /></a>
+<a href="https://medium.com/@maamoun.haj.najeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@maamoun.haj.najeeb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/he magic of computer science" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="he magic of computer science" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/maamounhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maamounhn" height="30" width="40" /></a>
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maamoun3911&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href=https://komarev.com/ghpvc/?username=maamoun3911&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=maamoun3911&style=for-the-badge">
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maamoun3911&show_icons=true&locale=en&layout=compact" alt="maamoun3911" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maamoun3911&show_icons=true&locale=en" alt="maamoun3911" /></p>
