@@ -66,7 +66,3 @@
 </br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maamounhajnajeeb&show_icons=true&locale=en&layout=compact" alt="maamounhajnajeeb" /></p>
-
-<div></div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maamounhajnajeeb&show_icons=true&locale=en" alt="maamounhajnajeeb" /></p>
