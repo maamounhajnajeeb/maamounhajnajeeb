@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maamoun Haj Najeeb</h1>
 <h3 align="center">A passionate backend developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maamoun3911&label=Profile%20views&color=0e75b6&style=flat" alt="maamoun3911" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maamounhajnajeeb&label=Profile%20views&color=0e75b6&style=flat" alt="maamounhajnajeeb" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maamoun3911" alt="maamoun3911" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maamounhajnajeeb" alt="maamounhajnajeeb" /></a> </p> -->
 
 <img align="right" width="400px" src="https://www.hyperinteractive.de/wp-content/uploads/2022/05/back-end-developer.gif" />
 
@@ -65,8 +65,7 @@
 
 <div></div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maamoun3911&show_icons=true&locale=en&layout=compact" alt="maamoun3911" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maamounhajnajeeb&show_icons=true&locale=en&layout=compact" alt="maamounhajnajeeb" /></p>
 
-<div></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maamoun3911&show_icons=true&locale=en" alt="maamoun3911" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maamounhajnajeeb&show_icons=true&locale=en" alt="maamounhajnajeeb" /></p>
