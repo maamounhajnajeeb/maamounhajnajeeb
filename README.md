@@ -5,12 +5,14 @@
 [E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
 
 
-## I'm Backend Developer
+## I'm Backend Developer & Technical Content Creator
 * Work with Python, Django, Rest Framewrok and PostgreSQL on the backend
-* Founder of [The Magic Of Computer Science](https://www.youtube.com/@themagicofcomputerscience3270)
-* Fun fact: I really love deep diving in computer science concepts and share my reaserch results with people.
-* My portfolio:
-* My certificates: 
+* Make technical videos about computer science world
+* Founder of [The Magic Of Computer Science](https://www.youtube.com/@themagicofcomputerscience3270) YouTube channel
+* 2024 Goals: Contribute more to Open Source projects
+* Fun fact: backend dev is the best end dev
+* My portfolio: 
+* My certificates: .
 
 
 
