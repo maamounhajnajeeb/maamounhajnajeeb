@@ -1,9 +1,6 @@
 ### Hi there, I'm Maamoun
 ![](https://komarev.com/ghpvc/?username=maamounhajnajeeb&style=for-the-badge)
 
-[ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px" height="40px" /> ](https://www.linkedin.com/in/maamoun-hajnajeeb/)
-[E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
-
 
 ## I'm Backend Developer & Technical Content Creator
 * Work with Python, Django, Rest Framewrok and PostgreSQL
@@ -13,8 +10,6 @@
 * Fun fact: backend dev is the best end dev
 * My portfolio: 
 * [My certificates](https://github.com/maamounhajnajeeb/Certificates).
-
-</hr>
 
 
 ## Languages, technologies and tools
@@ -35,9 +30,11 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px" height="50px" />
 </div>
 
+
 ## Find me at:
 <a href = "https://www.linkedin.com/in/maamoun-hajnajeeb/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/@themagicofcomputerscience3270" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
-<a href = "https://leetcode.com/maamounhn/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/leetcode.png"/></a>
-<a href = "maamoun.haj.najeeb@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-
+<a href="https://leetcode.com/maamounhn/"> 
+          <i class="cib-leetcode"></i>
+</a>
+[E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
