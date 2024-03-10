@@ -14,6 +14,11 @@
 * My portfolio: 
 * [My certificates](https://github.com/maamounhajnajeeb/Certificates).
 
+</hr>
+[Linkedin Profile](https://www.linkedin.com/in/maamoun-hajnajeeb/)
+Portfolio
+[YouTube Channel](https://www.youtube.com/@themagicofcomputerscience3270)
+[Leetcode](https://leetcode.com/maamounhn/)
 
 
 ## Languages, technologies and tools
