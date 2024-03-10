@@ -12,7 +12,7 @@
 * I Work with Python, Django, Rest Framewrok, PostgreSQL and Docker
 * Make technical videos about computer science world
 * Founder of [The Magic Of Computer Science](https://www.youtube.com/@themagicofcomputerscience3270) YouTube channel
-* 2024 Goals: Contribute more to Open Source projects
+* 2024 Goal: Contribute more to Open Source projects
 * Fun fact: backend dev is the best end dev
 * [My certificates](https://github.com/maamounhajnajeeb/Certificates).
 
@@ -25,13 +25,13 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="50px" height="50px" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50px" height="50px" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40px" height="50px" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50px" height="50px" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" height="50px" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px" height="50px" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" height="40px" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="50px" height="50px" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px" height="50px" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px" height="50px" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50px" height="50px" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" height="50px" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px" height="50px" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px" height="50px" />
 </div>
 
