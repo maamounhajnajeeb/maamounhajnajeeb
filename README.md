@@ -18,12 +18,9 @@
 
 [Linkedin Profile](https://www.linkedin.com/in/maamoun-hajnajeeb/)
 
-
 Portfolio
 
-
 [YouTube Channel](https://www.youtube.com/@themagicofcomputerscience3270)
-
 
 [Leetcode](https://leetcode.com/maamounhn/)
 
