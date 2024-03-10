@@ -39,3 +39,7 @@ Portfolio</br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40px" height="40px" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40px" height="40px" />
 </div>
+
+## Find me at:
+<a href = "https://www.linkedin.com/in/maamoun-hajnajeeb/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.youtube.com/@themagicofcomputerscience3270" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
