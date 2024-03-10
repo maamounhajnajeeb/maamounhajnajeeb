@@ -1,7 +1,7 @@
 ### Hi there, I'm Maamoun
 ![](https://komarev.com/ghpvc/?username=maamounhajnajeeb&style=for-the-badge)
 
-[ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> ](https://www.linkedin.com/in/maamoun-hajnajeeb/)
+[ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px" height="40px" /> ](https://www.linkedin.com/in/maamoun-hajnajeeb/)
 [E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
 
 
