@@ -32,9 +32,11 @@
 
 
 ## Find me at:
-<a href = "https://www.linkedin.com/in/maamoun-hajnajeeb/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.youtube.com/@themagicofcomputerscience3270" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
-<a href="https://leetcode.com/maamounhn/"> 
-          <i class="cib-leetcode"></i>
-</a>
-[E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
+<div style="display: flex; justify-content: center;">
+          <a href = "https://www.linkedin.com/in/maamoun-hajnajeeb/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+          <a href = "https://www.youtube.com/@themagicofcomputerscience3270" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
+          <a href="https://leetcode.com/maamounhn/"> 
+                    <i class="cib-leetcode"></i>
+          </a>
+          [E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
+</div>
