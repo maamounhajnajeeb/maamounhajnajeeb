@@ -7,7 +7,7 @@
 
 ## I'm Backend Developer
 * Work with Python, Django, Rest Framewrok and PostgreSQL on the backend
-* Founder of [The Magic Of Computer Science] (https://www.youtube.com/@themagicofcomputerscience3270)
+* Founder of [The Magic Of Computer Science](https://www.youtube.com/@themagicofcomputerscience3270)
 * Fun fact: I really love deep diving in computer science concepts and share my reaserch results with people.
 * My portfolio:
 * My certificates: 
