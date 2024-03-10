@@ -12,7 +12,7 @@
 * 2024 Goals: Contribute more to Open Source projects
 * Fun fact: backend dev is the best end dev
 * My portfolio: 
-* My certificates: .
+* [My certificates](https://github.com/maamounhajnajeeb/Certificates).
 
 
 
