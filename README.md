@@ -16,11 +16,6 @@
 
 </hr>
 
-[Linkedin Profile](https://www.linkedin.com/in/maamoun-hajnajeeb/)</br>
-Portfolio</br>
-[YouTube Channel](https://www.youtube.com/@themagicofcomputerscience3270)</br>
-[Leetcode](https://leetcode.com/maamounhn/)</br>
-
 
 ## Languages, technologies and tools
 <div sytle="display: flex; flex-direction: row">
@@ -43,3 +38,4 @@ Portfolio</br>
 ## Find me at:
 <a href = "https://www.linkedin.com/in/maamoun-hajnajeeb/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/@themagicofcomputerscience3270" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
+<a href = "https://leetcode.com/maamounhn/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/leetcode.png"/></a>
