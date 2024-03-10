@@ -6,7 +6,7 @@
 
 
 ## I'm Backend Developer & Technical Content Creator
-* Work with Python, Django, Rest Framewrok and PostgreSQL on the backend
+* Work with Python, Django, Rest Framewrok and PostgreSQL
 * Make technical videos about computer science world
 * Founder of [The Magic Of Computer Science](https://www.youtube.com/@themagicofcomputerscience3270) YouTube channel
 * 2024 Goals: Contribute more to Open Source projects
