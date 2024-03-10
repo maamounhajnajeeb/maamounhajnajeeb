@@ -1,14 +1,14 @@
-### Hi there, I'm Maamoun
-![](https://komarev.com/ghpvc/?username=maamounhajnajeeb&style=for-the-badge)
 
+<!-- ![](https://komarev.com/ghpvc/?username=maamounhajnajeeb&style=for-the-badge) -->
+<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Maamoun Haj Najeeb</h1>
+<h3 align="center">Backend Developer</h3>
 
-## I'm Backend Developer & Technical Content Creator
-* Work with Python, Django, Rest Framewrok and PostgreSQL
+## About Me
+* I Work with Python, Django, Rest Framewrok, PostgreSQL and Docker
 * Make technical videos about computer science world
 * Founder of [The Magic Of Computer Science](https://www.youtube.com/@themagicofcomputerscience3270) YouTube channel
 * 2024 Goals: Contribute more to Open Source projects
 * Fun fact: backend dev is the best end dev
-* My portfolio: 
 * [My certificates](https://github.com/maamounhajnajeeb/Certificates).
 
 
@@ -34,7 +34,6 @@
 ## Find me at:
 <a href = "https://www.linkedin.com/in/maamoun-hajnajeeb/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/@themagicofcomputerscience3270" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
-<a href="https://leetcode.com/maamounhn/"> 
-          <i class="cib-leetcode"></i>
-</a>
+
+
 [E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
