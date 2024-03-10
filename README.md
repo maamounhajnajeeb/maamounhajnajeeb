@@ -16,12 +16,10 @@
 
 </hr>
 
-[Linkedin Profile](https://www.linkedin.com/in/maamoun-hajnajeeb/)
-
+[Linkedin Profile](https://www.linkedin.com/in/maamoun-hajnajeeb/)</br>
 Portfolio</br>
-[YouTube Channel](https://www.youtube.com/@themagicofcomputerscience3270)
-
-[Leetcode](https://leetcode.com/maamounhn/)
+[YouTube Channel](https://www.youtube.com/@themagicofcomputerscience3270)</br>
+[Leetcode](https://leetcode.com/maamounhn/)</br>
 
 
 ## Languages, technologies and tools
