@@ -44,7 +44,7 @@ I'm a backend developer and CS student from Syria.
 ## Where you can find me 👀
 - [LinkedIn](https://www.linkedin.com/in/maamoun-hajnajeeb/)
 - [YouTube - The magic of computer science](https://www.youtube.com/@themagicofcomputerscience3270/)
-- [Blog](https://maamounhajnajeeb.blogspot.com/)
+- [Blog](https://maamounhajnajeeb.blogspot.com/search/label/Technical)
 
 [E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
 
