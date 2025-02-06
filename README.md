@@ -5,8 +5,10 @@
  <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" />
 </a>
 
-<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Maamoun Haj Najeeb</h1>
-<h3 align="center">Backend Developer</h3>
+<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+### I'm [@maamounhajnajeeb](https://github.com/maamounhajnajeeb) (*Maamoun Haj Najeeb*) 🙋‍♂️
+I'm a backend developer and CS student from Syria.
 
 ## About Me
 * I Work with Python, Django, Rest Framewrok, PostgreSQL and Docker
@@ -37,10 +39,10 @@
 </div>
 
 
-## Find me at:
-<a href = "https://www.linkedin.com/in/maamoun-hajnajeeb/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.youtube.com/@themagicofcomputerscience3270" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
-
+## Where you can find me 👀
+- [LinkedIn](https://www.linkedin.com/in/maamoun-hajnajeeb/)
+- [YouTube](https://www.youtube.com/@themagicofcomputerscience3270/)
+- [Blog](https://maamounhajnajeeb.blogspot.com/)
 
 [E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
 
