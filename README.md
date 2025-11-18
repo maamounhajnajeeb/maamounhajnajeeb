@@ -13,12 +13,16 @@ I'm [@maamounhajnajeeb](https://github.com/maamounhajnajeeb) (*Maamoun Haj Najee
 I'm Backend Engineer with +2 years of experience, and the creater of The Magic Of Computer Science on YouTube. I'm specialized in designing robust backend solutions that drive business growth.
 Also, I'm CS bachelor student.
 
+---
+
 ## About Me
 * Back-End Engineer who works with many Back-End technologies like: Python, Django, Rest Framewrok, PostgreSQL and Docker, etc...
 * Make technical videos about computer science world
 * Founder of [The Magic Of Computer Science](https://www.youtube.com/@themagicofcomputerscience3270) YouTube channel
 * 2026 Goal: Contribute more to Open Source projects
 * Fun fact: Backend dev is the best end dev
+
+---
 
 ## Languages, technologies and tools
 <div sytle="display: flex; flex-direction: row">
@@ -40,6 +44,7 @@ Also, I'm CS bachelor student.
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px" height="50px" />
 </div>
 
+---
 
 ## ☕ CONNECT WITH ME 
 - [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maamounhajnajeeb.github.io/)
@@ -49,6 +54,7 @@ Also, I'm CS bachelor student.
 
 [E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
 
+---
 
 ## 📈 Profile Stats
 
@@ -61,5 +67,6 @@ Also, I'm CS bachelor student.
 <!-- Profile Views Badge -->
 [![Profile Views](https://komarev.com/ghpvc/?username=maamounhajnajeeb&style=for-the-badge&color=blue)](https://github.com/DataWithBaraa)
 
+---
 
 <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
