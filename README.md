@@ -50,4 +50,16 @@ Also, I'm CS bachelor student.
 [E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
 
 
+## 📈 Profile Stats
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=datawithbaraa&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithbaraa&layout=compact&theme=dark" alt="Top Languages" />
+
+<!-- Profile Views Badge -->
+[![Profile Views](https://komarev.com/ghpvc/?username=DataWithBaraa&style=for-the-badge&color=blue)](https://github.com/DataWithBaraa)
+
+
 <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
