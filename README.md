@@ -14,7 +14,7 @@ I'm Backend Engineer with +2 years of experience, and the creater of The Magic O
 Also, I'm CS bachelor student.
 
 ## About Me
-* I Work with Python, Django, Rest Framewrok, PostgreSQL and Docker
+* Back-End Engineer who works with many Back-End technologies like: Python, Django, Rest Framewrok, PostgreSQL and Docker, etc...
 * Make technical videos about computer science world
 * Founder of [The Magic Of Computer Science](https://www.youtube.com/@themagicofcomputerscience3270) YouTube channel
 * 2026 Goal: Contribute more to Open Source projects
