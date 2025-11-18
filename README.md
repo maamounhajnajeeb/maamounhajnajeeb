@@ -10,7 +10,7 @@
 
 I'm [@maamounhajnajeeb](https://github.com/maamounhajnajeeb) (*Maamoun Haj Najeeb*) 🙋‍♂️
 
-I'm Backend Engineer with more than 2 years of experience, and the creater of The Magic Of Computer Science on YouTube. I'm specialized in designing robust backend solutions that drive business growth.
+I'm Backend Engineer with +2 years of experience, and the creater of The Magic Of Computer Science on YouTube. I'm specialized in designing robust backend solutions that drive business growth.
 Also, I'm CS bachelor student.
 
 ## About Me
@@ -42,8 +42,9 @@ Also, I'm CS bachelor student.
 
 
 ## ☕ CONNECT WITH ME 
+- [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maamounhajnajeeb.github.io/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maamoun-hajnajeeb/)
-- [YouTube - The magic of computer science](https://www.youtube.com/@themagicofcomputerscience3270/)
+- [![YouTube - The magic of computer science](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@themagicofcomputerscience3270/)
 - [Blog](https://maamounhajnajeeb.blogspot.com/search/label/Technical)
 
 [E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
