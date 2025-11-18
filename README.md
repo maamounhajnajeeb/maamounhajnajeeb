@@ -10,16 +10,15 @@
 
 I'm [@maamounhajnajeeb](https://github.com/maamounhajnajeeb) (*Maamoun Haj Najeeb*) 🙋‍♂️
 
-I'm a backend developer and CS student from Syria.
+I'm Backend Engineer with more than 2 years of experience, and the creater of The Magic Of Computer Science on YouTube. I'm specialized in designing robust backend solutions that drive business growth.
+Also, I'm CS bachelor student.
 
 ## About Me
 * I Work with Python, Django, Rest Framewrok, PostgreSQL and Docker
 * Make technical videos about computer science world
 * Founder of [The Magic Of Computer Science](https://www.youtube.com/@themagicofcomputerscience3270) YouTube channel
-* 2025 Goal: Contribute more to Open Source projects
-* Fun fact: backend dev is the best end dev
-* [My certificates](https://github.com/maamounhajnajeeb/Certificates).
-
+* 2026 Goal: Contribute more to Open Source projects
+* Fun fact: Backend dev is the best end dev
 
 ## Languages, technologies and tools
 <div sytle="display: flex; flex-direction: row">
@@ -42,8 +41,8 @@ I'm a backend developer and CS student from Syria.
 </div>
 
 
-## Where you can find me 👀
-- [LinkedIn](https://www.linkedin.com/in/maamoun-hajnajeeb/)
+## ☕ CONNECT WITH ME 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maamoun-hajnajeeb/)
 - [YouTube - The magic of computer science](https://www.youtube.com/@themagicofcomputerscience3270/)
 - [Blog](https://maamounhajnajeeb.blogspot.com/search/label/Technical)
 
