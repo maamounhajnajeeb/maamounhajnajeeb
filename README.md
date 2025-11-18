@@ -27,6 +27,7 @@ Also, I'm CS bachelor student.
 ## Languages, technologies and tools
 <div sytle="display: flex; flex-direction: row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" height="50px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50px" height="50px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="50px" height="50px" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="50px" height="50px" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="50px" height="50px" />
@@ -47,9 +48,7 @@ Also, I'm CS bachelor student.
 ---
 
 ## ☕ CONNECT WITH ME 
-- [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maamounhajnajeeb.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maamoun-hajnajeeb/)
-- [![YouTube - The magic of computer science](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@themagicofcomputerscience3270/)
-- [![Blog](https://img.shields.io/badge/blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://maamounhajnajeeb.blogspot.com/search/label/Technical)
+- [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maamounhajnajeeb.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maamoun-hajnajeeb/) [![YouTube - The magic of computer science](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@themagicofcomputerscience3270/) [![Blog](https://img.shields.io/badge/blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://maamounhajnajeeb.blogspot.com/search/label/Technical)
 
 [E-mail me](mailto:maamoun.haj.najeeb@gmail.com "Maamoun's email")
 
